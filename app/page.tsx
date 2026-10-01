@@ -1,5 +1,6 @@
 import Image from "next/image";
 import HighlightStrip from "@/components/highlightStrip";
+import Services from "@/components/servicesSection";
 export default function Home() {
   return (
     <main>
@@ -45,6 +46,7 @@ export default function Home() {
         </div>
       </section>
       <HighlightStrip />
+      <Services />
     </main>
   );
 }
