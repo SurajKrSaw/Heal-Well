@@ -1,6 +1,8 @@
 import Image from "next/image";
 import HighlightStrip from "@/components/highlightStrip";
 import Services from "@/components/servicesSection";
+import Ctfp from "@/components/ctfp";
+
 export default function Home() {
   return (
     <main>
@@ -47,6 +49,7 @@ export default function Home() {
       </section>
       <HighlightStrip />
       <Services />
+      <Ctfp />
     </main>
   );
 }
