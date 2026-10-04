@@ -3,6 +3,7 @@ import HighlightStrip from "@/components/highlightStrip";
 import Services from "@/components/servicesSection";
 import Ctfp from "@/components/ctfp";
 import HowItWorks from "@/components/howItWorks";
+import WhoWeHelp from "@/components/woWeHelp";
 
 export default function Home() {
   return (
@@ -52,6 +53,7 @@ export default function Home() {
       <Services />
       <Ctfp />
       <HowItWorks />
+      <WhoWeHelp />
     </main>
   );
 }
