@@ -4,6 +4,7 @@ import Services from "@/components/servicesSection";
 import Ctfp from "@/components/ctfp";
 import HowItWorks from "@/components/howItWorks";
 import WhoWeHelp from "@/components/woWeHelp";
+import FinalCTA from "@/components/finalCTA";
 
 export default function Home() {
   return (
@@ -54,6 +55,7 @@ export default function Home() {
       <Ctfp />
       <HowItWorks />
       <WhoWeHelp />
+      <FinalCTA />
     </main>
   );
 }
