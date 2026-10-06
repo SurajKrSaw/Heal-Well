@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const Footer = () => {
   return (
-    <footer className="border-t bg-teal-150">
+    <footer className="border-t bg-teal-100">
       <div className="mx-auto max-w-7xl px-6 pt-12">
         {/* Brand */}
         <div className="mb-10">
