@@ -2,7 +2,7 @@ import { Button } from "@base-ui/react";
 
 const FinalCTA = () => {
   return (
-    <section className="flex flex-col items-center py-6 mx-auto max-w-7xl">
+    <section className="flex flex-col items-center px-3 py-6 mx-auto max-w-7xl">
       <h4 className="my-2 font-bold text-green-800">
         NEED CARE FOR YOUR LOVED ONE?
       </h4>
