@@ -89,7 +89,7 @@ export default function ServicesPage() {
   return (
     <main className="overflow-hidden bg-white">
       {/* Hero */}
-      <section className="relative bg-teal-50 px-6 py-20 md:py-28">
+      <section className="relative bg-teal-50 px-6 py-15 md:pb-28 md:pt-20">
         <div className="pointer-events-none absolute -right-16 -top-16 h-64 w-64 rounded-full bg-teal-100/70 blur-3xl" />
         <div className="pointer-events-none absolute -bottom-20 -left-16 h-64 w-64 rounded-full bg-emerald-100/60 blur-3xl" />
 

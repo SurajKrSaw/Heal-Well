@@ -24,7 +24,7 @@ const values = [
 
 export default function AboutSection() {
   return (
-    <section className="overflow-hidden bg-white px-5 py-20 sm:py-24 lg:py-28">
+    <section className="overflow-hidden bg-white px-5 py-18 md:pb-28 md:pt-20">
       <div className="mx-auto max-w-7xl">
         <div className="grid items-center gap-14 lg:grid-cols-2 lg:gap-20">
           {/* Left: Visual */}

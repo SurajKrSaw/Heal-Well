@@ -87,7 +87,7 @@ export default function FAQPage() {
   return (
     <main className="min-h-screen bg-white">
       {/* Hero */}
-      <section className="relative isolate overflow-hidden bg-gradient-to-br from-teal-50 via-white to-teal-100/70 px-5 py-20 sm:py-28">
+      <section className="relative isolate overflow-hidden bg-gradient-to-br from-teal-50 via-white to-teal-100/70 px-5 py-15 md:pb-28 md:pt-20">
         <div className="absolute -right-24 -top-24 -z-10 h-80 w-80 rounded-full bg-teal-200/40 blur-3xl" />
         <div className="absolute -bottom-32 -left-20 -z-10 h-72 w-72 rounded-full bg-cyan-100/60 blur-3xl" />
 
